@@ -10,7 +10,7 @@ npm install mobile-page-loader
 
 ```
 ### 实现效果
- ![image](https://raw.githubusercontent.com/2018Cool/mobile-page-loader/master/assets/%E6%BC%94%E7%A4%BA.gif)
+ ![image](https://note.youdao.com/yws/public/resource/c069a18a9638eae908eaac85782bc902/xmlnote/WEBRESOURCE252cba1394edbe5fff558c16dd40dca6/12382)
 ### 使用示例
 ```
 使用方法和示例见example目录；使用此页面加载器加载的component的必须基于WbPage或者WbModal实现。
