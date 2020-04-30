@@ -1,6 +1,6 @@
 {
   "name": "mobile-page-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue移动端页面加载器",
   "main": "lib/index.js",
   "scripts": {
